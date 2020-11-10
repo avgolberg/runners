@@ -1,0 +1,10 @@
+C:\Users\Аленка\source\repos\Бега\bin\Debug\Бега.exe.config
+C:\Users\Аленка\source\repos\Бега\bin\Debug\Бега.exe
+C:\Users\Аленка\source\repos\Бега\bin\Debug\Бега.pdb
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.Form1.resources
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.Properties.Resources.resources
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.exe
+C:\Users\Аленка\source\repos\Бега\obj\Debug\Бега.pdb
